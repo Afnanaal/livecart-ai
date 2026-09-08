@@ -1,2 +1,4 @@
 confluent-kafka==2.15.0
 pydantic==2.13.5
+pyspark==4.2.0
+delta-spark==4.4.0
