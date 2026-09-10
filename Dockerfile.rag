@@ -1,0 +1,12 @@
+FROM python:3.11-slim
+
+WORKDIR /opt/livecart-ai
+
+COPY requirements-rag.txt /tmp/requirements-rag.txt
+
+RUN pip install --no-cache-dir -r /tmp/requirements-rag.txt
+
+COPY src /opt/livecart-ai/src
+COPY outputs /opt/livecart-ai/outputs
+
+CMD ["python", "-m", "src.rag.pipeline"]

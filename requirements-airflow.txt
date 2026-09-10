@@ -1,0 +1,6 @@
+pydantic==2.13.5
+qdrant-client==1.15.1
+rank-bm25==0.2.2
+great-expectations
+openlineage-python
+confluent-kafka==2.15.0

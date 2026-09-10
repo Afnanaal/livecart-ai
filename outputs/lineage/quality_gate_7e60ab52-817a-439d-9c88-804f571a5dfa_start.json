@@ -1,0 +1,13 @@
+{
+  "eventType": "START",
+  "eventTime": "2026-09-09T21:29:13.420160+00:00",
+  "run": {
+    "runId": "7e60ab52-817a-439d-9c88-804f571a5dfa"
+  },
+  "job": {
+    "namespace": "livecart-ai",
+    "name": "quality_gate"
+  },
+  "producer": "https://openlineage.io",
+  "client_status": "emitted"
+}

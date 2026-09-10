@@ -1,0 +1,13 @@
+{
+  "eventType": "START",
+  "eventTime": "2026-09-09T23:45:20.318513+00:00",
+  "run": {
+    "runId": "921a4cda-eb58-42ea-a4e9-26bd2c641b8d"
+  },
+  "job": {
+    "namespace": "livecart-ai",
+    "name": "lakehouse"
+  },
+  "producer": "https://openlineage.io",
+  "client_status": "emitted"
+}

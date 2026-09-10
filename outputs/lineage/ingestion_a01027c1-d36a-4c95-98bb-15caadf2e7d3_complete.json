@@ -1,0 +1,13 @@
+{
+  "eventType": "COMPLETE",
+  "eventTime": "2026-09-10T00:23:20.015291+00:00",
+  "run": {
+    "runId": "a01027c1-d36a-4c95-98bb-15caadf2e7d3"
+  },
+  "job": {
+    "namespace": "livecart-ai",
+    "name": "ingestion"
+  },
+  "producer": "https://openlineage.io",
+  "client_status": "emitted"
+}
