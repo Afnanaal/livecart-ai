@@ -486,7 +486,7 @@ This project was developed as part of the:
 **Modern Data Engineering for AI Systems**
 
 **SDAIA Academy**
-
+https://github.com/SDAIAAcademy
 ---
 
 ## Learning Outcomes
