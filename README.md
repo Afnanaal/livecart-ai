@@ -487,12 +487,6 @@ This project was developed as part of the:
 
 **SDAIA Academy**
 
-**Cohort / Session Dates:** Not specified
-
-SDAIA Academy GitHub:
-
-https://github.com/SDAIAAcademy
-
 ---
 
 ## Learning Outcomes
